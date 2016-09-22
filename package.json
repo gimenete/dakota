@@ -1,7 +1,7 @@
 {
   "name": "dakota",
   "main": "./lib/atom-dakota",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Utilities for transforming JavaScript syntax",
   "keywords": [],
   "scripts": {
